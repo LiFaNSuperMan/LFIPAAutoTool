@@ -1,3 +1,3 @@
 # LFIPAAutoTool
 * iOS自动化打包脚本，Python
-* 完善中
+* 使用MacOS完成工具的配置项以及可视化
